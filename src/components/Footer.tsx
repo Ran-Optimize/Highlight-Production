@@ -44,7 +44,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="max-w-7xl mx-auto px-6 mt-12 pt-8 border-t border-zinc-200 dark:border-zinc-900 text-center text-zinc-500 text-sm">
-        &copy; 2022 Highlight Productions INC. All rights reserved.
+        &copy; 2022 Highlight Production LA. All rights reserved.
       </div>
     </footer>
   );
